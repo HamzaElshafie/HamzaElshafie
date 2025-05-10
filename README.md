@@ -16,5 +16,6 @@ I’m a Machine Learning Engineer with a Master’s in Machine Learning and a ba
 
 Recently, I’ve been diving into performance and optimisation, and have started learning CUDA and Triton. Exploring the lower-level side of AI has been both challenging and rewarding. I’d be glad to collaborate on any related projects or opportunities.
 
+[![Résumé](https://img.shields.io/badge/View%20Résumé-PDF-red?logo=adobeacrobatreader)](https://github.com/HamzaElshafie/HamzaElshafie/blob/main/Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/hamzaelshafie)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/HamzaElshafie)
