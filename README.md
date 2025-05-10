@@ -19,3 +19,9 @@ Recently, I’ve been diving into performance and optimisation, and have started
 [![Résumé](https://img.shields.io/badge/View%20Résumé-PDF-red?logo=adobeacrobatreader)](https://github.com/HamzaElshafie/HamzaElshafie/blob/main/Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/hamzaelshafie)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/HamzaElshafie)
+
+### 🛠️ Languages and Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
