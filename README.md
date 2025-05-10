@@ -20,7 +20,7 @@ Recently, I’ve been diving into performance and optimisation, and have started
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/hamzaelshafie)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/HamzaElshafie)
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
@@ -29,4 +29,5 @@ Recently, I’ve been diving into performance and optimisation, and have started
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
   <img src="https://github.com/HamzaElshafie/HamzaElshafie/blob/main/cuda.png" width="40" alt="CUDA"/>
+  <img src="https://github.com/HamzaElshafie/HamzaElshafie/blob/main/triton-logo.png" width="40" alt="CUDA"/>
 </p>
