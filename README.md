@@ -28,4 +28,5 @@ Recently, I’ve been diving into performance and optimisation, and have started
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
+  <img src="https://github.com/HamzaElshafie/HamzaElshafie/blob/main/cuda.png" width="40" alt="CUDA"/>
 </p>
