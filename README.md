@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-I’m a Machine Learning Engineer with a Master’s in Machine Learning and a background in Computer Science. I’ve worked extensively with deep learning, primarily using PyTorch and TensorFlow, with a focus on computer vision tasks.
+I’m a Machine Learning Engineer with a Master’s in Machine Learning and a background in Computer Science. I’ve worked extensively with deep learning, primarily using PyTorch and TensorFlow, and have experience in high performance computing using CUDA and C++.
 
-Recently, I’ve been diving into performance and optimisation, and have started learning CUDA and Triton. Exploring the lower-level side of AI has been both challenging and rewarding. I’d be glad to collaborate on any related projects or opportunities.
+Exploring the lower level side of AI has been both challenging and rewarding, but I’m enjoying the process of understanding what’s happening under the hood. I’d be glad to collaborate on any related projects or opportunities.
 
 [![Résumé](https://img.shields.io/badge/View%20Résumé-PDF-red?logo=adobeacrobatreader)](https://github.com/HamzaElshafie/HamzaElshafie/blob/main/Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/hamzaelshafie)
