@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-I’m a Machine Learning Engineer with a Master’s in Machine Learning and a background in Computer Science. I’ve worked extensively with deep learning, primarily using PyTorch and TensorFlow, and have experience in high performance computing using CUDA and C++.
+I’m a Machine Learning Engineer with a Master’s in Machine Learning and a background in Computer Science. I’ve worked extensively with deep learning, primarily using PyTorch and have experience in high performance computing using CUDA and C++.
 
 Exploring the lower level side of AI has been both challenging and rewarding, but I’m enjoying the process of understanding what’s happening under the hood. I’d be glad to collaborate on any related projects or opportunities.
 
