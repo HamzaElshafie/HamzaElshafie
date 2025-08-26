@@ -26,7 +26,6 @@ Exploring the lower level side of AI has been both challenging and rewarding, bu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
   <img src="https://github.com/HamzaElshafie/HamzaElshafie/blob/main/cuda.png" width="40" alt="CUDA"/>
   <img src="https://github.com/HamzaElshafie/HamzaElshafie/blob/main/triton-logo.png" width="40" alt="CUDA"/>
