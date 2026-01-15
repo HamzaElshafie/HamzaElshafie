@@ -16,7 +16,7 @@ I’m a Machine Learning Engineer with a Master’s in Machine Learning and a ba
 
 Exploring the lower level side of AI has been both challenging and rewarding, but I’m enjoying the process of understanding what’s happening under the hood. I’d be glad to collaborate on any related projects or opportunities.
 
-[![Résumé](https://img.shields.io/badge/View%20Résumé-PDF-red?logo=adobeacrobatreader)](https://github.com/HamzaElshafie/HamzaElshafie/blob/main/Resume.pdf)
+[![Résumé](https://img.shields.io/badge/View%20Résumé-PDF-red?logo=adobeacrobatreader)](https://github.com/HamzaElshafie/HamzaElshafie/blob/main/Resume_Hamza_Elshafie.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/hamzaelshafie)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/HamzaElshafie)
 
